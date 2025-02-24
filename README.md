@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome! I'm Bilal 👋
 
-<!--
-**mbilalnust/mbilalnust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm well-versed in both data science and data analytics. However, i intend to become full stack data scientist. I have honed my skills over years of hands-on experience. From creating dashboards, developing machine learning models to engineering efficient ETL pipelines, I'm intend to discover hidden insights in world of messy data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tool Kit
+
+| Category           | Tools                                                                 |
+|--------------------|----------------------------------------------------------------------|
+| Programming        | Python 🐍, SQL 📊, R 📈 , PySpark                                      |
+| Warehousing        | Redshift 🏠                                                |
+| Orchestration      | Apache Airflow 🌬️                                    |
+| Data Transformation| Databricks 🔥, dbt 📦                                              |
+| Visualization      | Tableau 📊, Apache Superset 📈 , Power BI, Salesforce 💼                  |
+| Cloud              | AWS ☁️ (MWAA Airflow 🌬️, Athena 🔍, EC2 🖥️, S3 📂, Lambda 🔄, Glue 🧩, Redshift 🏠, EMR 🚀, EKS 🛠️) |
+| DevOps             | Docker 🐳, GitHub Actions ⚙️                                      |
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/m-bilal/)
+- Email: mbilalnust@gmail.com
