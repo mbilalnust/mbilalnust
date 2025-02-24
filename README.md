@@ -11,7 +11,6 @@ I'm well-versed in both data science and data analytics. However, i intend to be
 | Programming        | Python 🐍, SQL 📊, R 📈 , PySpark                                      |
 | Warehousing        | Redshift 🏠                                                |
 | Orchestration      | Apache Airflow 🌬️                                    |
-| Data Transformation| Databricks 🔥, dbt 📦                                              |
 | Visualization      | Tableau 📊, Apache Superset 📈 , Power BI, Salesforce 💼                  |
 | Cloud              | AWS ☁️ (MWAA Airflow 🌬️, Athena 🔍, EC2 🖥️, S3 📂, Lambda 🔄, Glue 🧩, Redshift 🏠, EMR 🚀, EKS 🛠️) |
 | DevOps             | Docker 🐳, GitHub Actions ⚙️                                      |
